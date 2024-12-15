@@ -36,7 +36,7 @@ class MainMenu extends StatelessWidget {
                 spacing: 10,
                 children: [
                   const Text(
-                    'Jurassic Run',
+                    'Dino Run',
                     style: TextStyle(
                       fontSize: 50,
                       color: Colors.white,

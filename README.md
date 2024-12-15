@@ -15,7 +15,7 @@ A 2D infinite side scroller made using [Flame](https://flame-engine.org/) engine
 
 ```bash
 # Clone this project
-$ git clone https://github.com/suraiya-jabin/Jurassic_run_project.git
+$ git clone https://github.com/suraiya-jabin/dino_run_project.git
 
 # Install dependencies
 $ flutter pub get
