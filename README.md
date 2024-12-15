@@ -20,7 +20,7 @@ A 2D infinite side scroller made using [Flame](https://flame-engine.org/) engine
 
 ```bash
 # Clone this project
-$ git clone https://github.com/ufrshubham/dino_run
+$ git clone https://github.com/suraiya-jabin/Jurassic_run_project.git
 
 # Access
 $ cd dino_run
